@@ -13,3 +13,4 @@ string longestCommonPrefix(vector<string>& strs) {
         return result;
 }
 ```
+> The question asks about common prefix for all strings,so you can't just find the longest common prefix for two strings.
