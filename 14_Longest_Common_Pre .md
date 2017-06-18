@@ -1,4 +1,5 @@
 > The solution is as below:
+
 `string longestCommonPrefix(vector<string>& strs) {
         string result = "";
         if(strs.size() == 0) return result;
