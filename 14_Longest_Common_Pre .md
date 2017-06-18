@@ -1,6 +1,6 @@
 > The solution is as below:
 
-`string longestCommonPrefix(vector<string>& strs) {
+``string longestCommonPrefix(vector<string>& strs) {
         string result = "";
         if(strs.size() == 0) return result;
         for(int i = 0;i < strs[0].size();i++){
@@ -10,4 +10,4 @@
             result.push_back(strs[0][i]);
         }
         return result;
-}`
+}``
