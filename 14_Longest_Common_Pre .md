@@ -1,4 +1,5 @@
 > Q:Write a function to find the longest common prefix string amongst an array of strings.
+
 > The solution is as below:
 
 ```C++
