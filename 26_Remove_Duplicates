@@ -26,5 +26,5 @@ int removeDuplicates(vector<int>& nums) {
             }
         }
         return nums.size();
-    }
+}
 ```
