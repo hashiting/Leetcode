@@ -28,3 +28,5 @@ int removeDuplicates(vector<int>& nums) {
         return nums.size();
 }
 ```
+
+> The key is to use the iteration of vector and remember i-- when you erase a element cause position i have been replace.
